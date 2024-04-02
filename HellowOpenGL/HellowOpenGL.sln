@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HellowOpenGL", "HellowOpenG
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RefreshCallBack", "RefreshCallBack\RefreshCallBack.vcxproj", "{34A0088F-9A65-4310-8B13-FC29304D8C01}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KeyboardCallBack", "KeyboardCallBack\KeyboardCallBack.vcxproj", "{016BA910-41F4-4DEE-9B05-3F292C4D12E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{34A0088F-9A65-4310-8B13-FC29304D8C01}.Release|x64.Build.0 = Release|x64
 		{34A0088F-9A65-4310-8B13-FC29304D8C01}.Release|x86.ActiveCfg = Release|Win32
 		{34A0088F-9A65-4310-8B13-FC29304D8C01}.Release|x86.Build.0 = Release|Win32
+		{016BA910-41F4-4DEE-9B05-3F292C4D12E3}.Debug|x64.ActiveCfg = Debug|x64
+		{016BA910-41F4-4DEE-9B05-3F292C4D12E3}.Debug|x64.Build.0 = Debug|x64
+		{016BA910-41F4-4DEE-9B05-3F292C4D12E3}.Debug|x86.ActiveCfg = Debug|Win32
+		{016BA910-41F4-4DEE-9B05-3F292C4D12E3}.Debug|x86.Build.0 = Debug|Win32
+		{016BA910-41F4-4DEE-9B05-3F292C4D12E3}.Release|x64.ActiveCfg = Release|x64
+		{016BA910-41F4-4DEE-9B05-3F292C4D12E3}.Release|x64.Build.0 = Release|x64
+		{016BA910-41F4-4DEE-9B05-3F292C4D12E3}.Release|x86.ActiveCfg = Release|Win32
+		{016BA910-41F4-4DEE-9B05-3F292C4D12E3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
