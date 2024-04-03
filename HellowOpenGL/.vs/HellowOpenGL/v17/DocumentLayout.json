@@ -1,28 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\",
+  "WorkspaceRootPath": "C:\\Users\\tkddl\\PsiDdrive\\1.Project\\OpenGL\\HellowOpenGL\\HellowOpenGL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E76F1B7B-E4A0-4DD2-B43D-0A1C3834527B}|ColorChange\\ColorChange.vcxproj|D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\ColorChange\\ColorChange.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}|HellowShader\\HellowShader.vcxproj|C:\\Users\\tkddl\\PsiDdrive\\1.Project\\OpenGL\\HellowOpenGL\\HellowOpenGL\\HellowShader\\HellowShader.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}|HellowShader\\HellowShader.vcxproj|solutionrelative:HellowShader\\HellowShader.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tkddl\\PsiDdrive\\1.Project\\OpenGL\\HellowOpenGL\\HellowOpenGL\\HellowShader\\common.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HellowShader\\common.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76F1B7B-E4A0-4DD2-B43D-0A1C3834527B}|ColorChange\\ColorChange.vcxproj|C:\\Users\\tkddl\\PsiDdrive\\1.Project\\OpenGL\\HellowOpenGL\\HellowOpenGL\\ColorChange\\ColorChange.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E76F1B7B-E4A0-4DD2-B43D-0A1C3834527B}|ColorChange\\ColorChange.vcxproj|solutionrelative:ColorChange\\ColorChange.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DKSYSTEMS\\Downloads\\14zprog-cb-color\\14d-full-scr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DKSYSTEMS\\Downloads\\14zprog-cb-color\\14c-color-change.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{016BA910-41F4-4DEE-9B05-3F292C4D12E3}|KeyboardCallBack\\KeyboardCallBack.vcxproj|D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\KeyboardCallBack\\KeyboardCallBack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{016BA910-41F4-4DEE-9B05-3F292C4D12E3}|KeyboardCallBack\\KeyboardCallBack.vcxproj|solutionrelative:KeyboardCallBack\\KeyboardCallBack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34A0088F-9A65-4310-8B13-FC29304D8C01}|RefreshCallBack\\RefreshCallBack.vcxproj|D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\RefreshCallBack\\RefreshCallBack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{34A0088F-9A65-4310-8B13-FC29304D8C01}|RefreshCallBack\\RefreshCallBack.vcxproj|solutionrelative:RefreshCallBack\\RefreshCallBack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79A3991B-2142-4D1B-AC75-A06C5848A398}|HellowOpenGL\\HellowOpenGL.vcxproj|D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowOpenGL\\Hellowglfw.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{79A3991B-2142-4D1B-AC75-A06C5848A398}|HellowOpenGL\\HellowOpenGL.vcxproj|solutionrelative:HellowOpenGL\\Hellowglfw.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}|HellowShader\\HellowShader.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.39.33519\\INCLUDE\\GLFW\\GLFW3.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,15 +25,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 270,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -53,84 +46,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "KeyboardCallBack.cpp",
-              "DocumentMoniker": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\KeyboardCallBack\\KeyboardCallBack.cpp",
-              "RelativeDocumentMoniker": "KeyboardCallBack\\KeyboardCallBack.cpp",
-              "ToolTip": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\KeyboardCallBack\\KeyboardCallBack.cpp",
-              "RelativeToolTip": "KeyboardCallBack\\KeyboardCallBack.cpp",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-02T14:21:29.458Z",
+              "Title": "glfw3.h",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\GLFW\\glfw3.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\GLFW\\glfw3.h",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\GLFW\\glfw3.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\GLFW\\glfw3.h",
+              "ViewState": "AQIAAIkMAAAAAAAAAAAewKIMAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T14:53:59.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RefreshCallBack.c",
-              "DocumentMoniker": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\RefreshCallBack\\RefreshCallBack.c",
-              "RelativeDocumentMoniker": "RefreshCallBack\\RefreshCallBack.c",
-              "ToolTip": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\RefreshCallBack\\RefreshCallBack.c",
-              "RelativeToolTip": "RefreshCallBack\\RefreshCallBack.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "ColorChange.c",
+              "DocumentMoniker": "C:\\Users\\tkddl\\PsiDdrive\\1.Project\\OpenGL\\HellowOpenGL\\HellowOpenGL\\ColorChange\\ColorChange.c",
+              "RelativeDocumentMoniker": "ColorChange\\ColorChange.c",
+              "ToolTip": "C:\\Users\\tkddl\\PsiDdrive\\1.Project\\OpenGL\\HellowOpenGL\\HellowOpenGL\\ColorChange\\ColorChange.c",
+              "RelativeToolTip": "ColorChange\\ColorChange.c",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-01T12:21:32.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Hellowglfw.c",
-              "DocumentMoniker": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowOpenGL\\Hellowglfw.c",
-              "RelativeDocumentMoniker": "HellowOpenGL\\Hellowglfw.c",
-              "ToolTip": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowOpenGL\\Hellowglfw.c",
-              "RelativeToolTip": "HellowOpenGL\\Hellowglfw.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-01T12:20:55.65Z"
+              "WhenOpened": "2024-04-03T14:46:03.919Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ColorChange.c",
-              "DocumentMoniker": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\ColorChange\\ColorChange.c",
-              "RelativeDocumentMoniker": "ColorChange\\ColorChange.c",
-              "ToolTip": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\ColorChange\\ColorChange.c",
-              "RelativeToolTip": "ColorChange\\ColorChange.c",
-              "ViewState": "AQIAABcAAAAAAAAAAAAIwCcAAAABAAAA",
+              "Title": "HellowShader.c",
+              "DocumentMoniker": "C:\\Users\\tkddl\\PsiDdrive\\1.Project\\OpenGL\\HellowOpenGL\\HellowOpenGL\\HellowShader\\HellowShader.c",
+              "RelativeDocumentMoniker": "HellowShader\\HellowShader.c",
+              "ToolTip": "C:\\Users\\tkddl\\PsiDdrive\\1.Project\\OpenGL\\HellowOpenGL\\HellowOpenGL\\HellowShader\\HellowShader.c",
+              "RelativeToolTip": "HellowShader\\HellowShader.c",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEgAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-02T23:52:34.152Z",
+              "WhenOpened": "2024-04-03T14:09:07.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "common.c",
+              "DocumentMoniker": "C:\\Users\\tkddl\\PsiDdrive\\1.Project\\OpenGL\\HellowOpenGL\\HellowOpenGL\\HellowShader\\common.c",
+              "RelativeDocumentMoniker": "HellowShader\\common.c",
+              "ToolTip": "C:\\Users\\tkddl\\PsiDdrive\\1.Project\\OpenGL\\HellowOpenGL\\HellowOpenGL\\HellowShader\\common.c",
+              "RelativeToolTip": "HellowShader\\common.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-03T14:07:52.879Z",
               "EditorCaption": ""
             }
           ]
         },
         {
           "DockedWidth": 271,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "14c-color-change.c",
-              "DocumentMoniker": "C:\\Users\\DKSYSTEMS\\Downloads\\14zprog-cb-color\\14c-color-change.c",
-              "ToolTip": "C:\\Users\\DKSYSTEMS\\Downloads\\14zprog-cb-color\\14c-color-change.c",
-              "ViewState": "AQIAACMAAAAAAAAAAAAIwEcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-02T23:51:50.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "14d-full-scr.c",
-              "DocumentMoniker": "C:\\Users\\DKSYSTEMS\\Downloads\\14zprog-cb-color\\14d-full-scr.c",
-              "ToolTip": "C:\\Users\\DKSYSTEMS\\Downloads\\14zprog-cb-color\\14d-full-scr.c",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAADQAAABWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-03T00:04:51.11Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KeyboardCallBack", "Keyboar
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ColorChange", "ColorChange\ColorChange.vcxproj", "{E76F1B7B-E4A0-4DD2-B43D-0A1C3834527B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HellowShader", "HellowShader\HellowShader.vcxproj", "{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{E76F1B7B-E4A0-4DD2-B43D-0A1C3834527B}.Release|x64.Build.0 = Release|x64
 		{E76F1B7B-E4A0-4DD2-B43D-0A1C3834527B}.Release|x86.ActiveCfg = Release|Win32
 		{E76F1B7B-E4A0-4DD2-B43D-0A1C3834527B}.Release|x86.Build.0 = Release|Win32
+		{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}.Debug|x64.ActiveCfg = Debug|x64
+		{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}.Debug|x64.Build.0 = Debug|x64
+		{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}.Debug|x86.ActiveCfg = Debug|Win32
+		{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}.Debug|x86.Build.0 = Debug|Win32
+		{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}.Release|x64.ActiveCfg = Release|x64
+		{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}.Release|x64.Build.0 = Release|x64
+		{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}.Release|x86.ActiveCfg = Release|Win32
+		{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
