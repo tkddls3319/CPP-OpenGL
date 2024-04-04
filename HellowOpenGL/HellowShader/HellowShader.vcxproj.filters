@@ -3,5 +3,7 @@
   <ItemGroup>
     <ClCompile Include="HellowShader.c" />
     <ClCompile Include="common.c" />
+    <ClCompile Include="LoadShader.c" />
+    <ClCompile Include="OldShader.c" />
   </ItemGroup>
 </Project>

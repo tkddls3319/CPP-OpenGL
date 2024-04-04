@@ -60,11 +60,11 @@ void drawFunc(void) {
 	// clear in gray color
 	glClear(GL_COLOR_BUFFER_BIT);
 	// provide the vertex attributes
-	GLuint loc = glGetAttribLocation(prog, "vertexPos");//vertexPos이 할당된 에트리뷰트의 위치를 찾는다.
-	glEnableVertexAttribArray(loc);//찾은 에트리뷰트 실행 c언어 프로그램과 연결
-	glVertexAttribPointer(loc, 4, GL_FLOAT, GL_FALSE, 0, vertPos);//미리 선언한 carray를 보낸다 vertPos를 보내게 된다. c언어의 cpu와 gpu가 연결된상황
+	GLuint loc = glGetAttribLocation(prog, "vertexPos");
+	glEnableVertexAttribArray(loc);
+	glVertexAttribPointer(loc, 4, GL_FLOAT, GL_FALSE, 0, vertPos);
 	// draw a triangle
-	glDrawArrays(GL_TRIANGLES, 0, 3);//실제로 그리는 부분
+	glDrawArrays(GL_TRIANGLES, 0, 3);
 	// done
 	glFinish();
 }
