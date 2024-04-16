@@ -11,5 +11,6 @@
     <ClCompile Include="7_Shader_Log.c" />
     <ClCompile Include="8_GetError.c" />
     <ClCompile Include="9_DebugExt.c" />
+    <ClCompile Include="10_AnimationTriangles.c" />
   </ItemGroup>
 </Project>

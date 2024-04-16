@@ -3,46 +3,22 @@
   "WorkspaceRootPath": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}|HellowShader\\HellowShader.vcxproj|D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\8_GetError.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}|HellowShader\\HellowShader.vcxproj|solutionrelative:HellowShader\\8_GetError.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1061E2AC-9A90-4EA6-AD98-5A68F88E3B1D}|HellowGLM\\HellowGLM.vcxproj|D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\4_ShootGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1061E2AC-9A90-4EA6-AD98-5A68F88E3B1D}|HellowGLM\\HellowGLM.vcxproj|solutionrelative:HellowGLM\\4_ShootGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}|HellowShader\\HellowShader.vcxproj|D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\9_DebugExt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}|HellowShader\\HellowShader.vcxproj|solutionrelative:HellowShader\\9_DebugExt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DKSYSTEMS\\Downloads\\31zprog-simple-anim\\31g-shoot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DKSYSTEMS\\Downloads\\23zprog-unif-debug\\23e-debug-ext.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DKSYSTEMS\\Downloads\\31zprog-simple-anim\\31f-rotate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DKSYSTEMS\\Downloads\\23zprog-unif-debug\\23d-get-error.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1061E2AC-9A90-4EA6-AD98-5A68F88E3B1D}|HellowGLM\\HellowGLM.vcxproj|D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\3_RotateTriangles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1061E2AC-9A90-4EA6-AD98-5A68F88E3B1D}|HellowGLM\\HellowGLM.vcxproj|solutionrelative:HellowGLM\\3_RotateTriangles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}|HellowShader\\HellowShader.vcxproj|D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\5_TwoTriangles.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}|HellowShader\\HellowShader.vcxproj|solutionrelative:HellowShader\\5_TwoTriangles.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}|HellowShader\\HellowShader.vcxproj|D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\common.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}|HellowShader\\HellowShader.vcxproj|solutionrelative:HellowShader\\common.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}|HellowShader\\HellowShader.vcxproj|D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\6_UniformTriangles.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}|HellowShader\\HellowShader.vcxproj|solutionrelative:HellowShader\\6_UniformTriangles.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}|HellowShader\\HellowShader.vcxproj|D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\4_ColoredTriangles.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}|HellowShader\\HellowShader.vcxproj|solutionrelative:HellowShader\\4_ColoredTriangles.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}|HellowShader\\HellowShader.vcxproj|D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\3_LoadShader.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}|HellowShader\\HellowShader.vcxproj|solutionrelative:HellowShader\\3_LoadShader.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}|HellowShader\\HellowShader.vcxproj|D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\2_OldShader.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}|HellowShader\\HellowShader.vcxproj|solutionrelative:HellowShader\\2_OldShader.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}|HellowShader\\HellowShader.vcxproj|D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\1_HellowShader.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9817F734-1B6D-4B28-A823-71B0BBE1E1F8}|HellowShader\\HellowShader.vcxproj|solutionrelative:HellowShader\\1_HellowShader.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1061E2AC-9A90-4EA6-AD98-5A68F88E3B1D}|HellowGLM\\HellowGLM.vcxproj|D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\2_TrianglesGLM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1061E2AC-9A90-4EA6-AD98-5A68F88E3B1D}|HellowGLM\\HellowGLM.vcxproj|solutionrelative:HellowGLM\\2_TrianglesGLM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,7 +28,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 211,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -72,106 +48,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "common.c",
-              "DocumentMoniker": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\common.c",
-              "RelativeDocumentMoniker": "HellowShader\\common.c",
-              "ToolTip": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\common.c",
-              "RelativeToolTip": "HellowShader\\common.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-15T06:07:50.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "6_UniformTriangles.c",
-              "DocumentMoniker": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\6_UniformTriangles.c",
-              "RelativeDocumentMoniker": "HellowShader\\6_UniformTriangles.c",
-              "ToolTip": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\6_UniformTriangles.c",
-              "RelativeToolTip": "HellowShader\\6_UniformTriangles.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-15T06:07:46.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "5_TwoTriangles.c",
-              "DocumentMoniker": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\5_TwoTriangles.c",
-              "RelativeDocumentMoniker": "HellowShader\\5_TwoTriangles.c",
-              "ToolTip": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\5_TwoTriangles.c",
-              "RelativeToolTip": "HellowShader\\5_TwoTriangles.c",
-              "ViewState": "AQIAACgAAAAAAAAAAAAjwD8AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-15T06:07:45.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "4_ColoredTriangles.c",
-              "DocumentMoniker": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\4_ColoredTriangles.c",
-              "RelativeDocumentMoniker": "HellowShader\\4_ColoredTriangles.c",
-              "ToolTip": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\4_ColoredTriangles.c",
-              "RelativeToolTip": "HellowShader\\4_ColoredTriangles.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-15T06:07:45.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "8_GetError.c",
-              "DocumentMoniker": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\8_GetError.c",
-              "RelativeDocumentMoniker": "HellowShader\\8_GetError.c",
-              "ToolTip": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\8_GetError.c",
-              "RelativeToolTip": "HellowShader\\8_GetError.c",
-              "ViewState": "AQIAAF8AAAAAAAAAAAAzwHYAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-15T06:05:40.873Z",
+              "Title": "4_ShootGame.cpp",
+              "DocumentMoniker": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\4_ShootGame.cpp",
+              "RelativeDocumentMoniker": "HellowGLM\\4_ShootGame.cpp",
+              "ToolTip": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\4_ShootGame.cpp",
+              "RelativeToolTip": "HellowGLM\\4_ShootGame.cpp",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAzwK8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T07:36:21.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "3_LoadShader.c",
-              "DocumentMoniker": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\3_LoadShader.c",
-              "RelativeDocumentMoniker": "HellowShader\\3_LoadShader.c",
-              "ToolTip": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\3_LoadShader.c",
-              "RelativeToolTip": "HellowShader\\3_LoadShader.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-15T06:07:44.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "2_OldShader.c",
-              "DocumentMoniker": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\2_OldShader.c",
-              "RelativeDocumentMoniker": "HellowShader\\2_OldShader.c",
-              "ToolTip": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\2_OldShader.c",
-              "RelativeToolTip": "HellowShader\\2_OldShader.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-15T06:07:40.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "1_HellowShader.c",
-              "DocumentMoniker": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\1_HellowShader.c",
-              "RelativeDocumentMoniker": "HellowShader\\1_HellowShader.c",
-              "ToolTip": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\1_HellowShader.c",
-              "RelativeToolTip": "HellowShader\\1_HellowShader.c",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-15T06:07:34.634Z",
+              "DocumentIndex": 3,
+              "Title": "3_RotateTriangles.cpp",
+              "DocumentMoniker": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\3_RotateTriangles.cpp",
+              "RelativeDocumentMoniker": "HellowGLM\\3_RotateTriangles.cpp",
+              "ToolTip": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\3_RotateTriangles.cpp",
+              "RelativeToolTip": "HellowGLM\\3_RotateTriangles.cpp",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAzwFcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T06:53:23.966Z",
               "EditorCaption": ""
             }
           ]
@@ -187,36 +85,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "9_DebugExt.c",
-              "DocumentMoniker": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\9_DebugExt.c",
-              "RelativeDocumentMoniker": "HellowShader\\9_DebugExt.c",
-              "ToolTip": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowShader\\9_DebugExt.c",
-              "RelativeToolTip": "HellowShader\\9_DebugExt.c",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAzwJoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-15T07:39:36.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "23d-get-error.c",
-              "DocumentMoniker": "C:\\Users\\DKSYSTEMS\\Downloads\\23zprog-unif-debug\\23d-get-error.c",
-              "ToolTip": "C:\\Users\\DKSYSTEMS\\Downloads\\23zprog-unif-debug\\23d-get-error.c",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAAAH4AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-15T06:05:15.117Z",
+              "Title": "31g-shoot.cpp",
+              "DocumentMoniker": "C:\\Users\\DKSYSTEMS\\Downloads\\31zprog-simple-anim\\31g-shoot.cpp",
+              "ToolTip": "C:\\Users\\DKSYSTEMS\\Downloads\\31zprog-simple-anim\\31g-shoot.cpp",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAzwNAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T07:33:11.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "23e-debug-ext.c",
-              "DocumentMoniker": "C:\\Users\\DKSYSTEMS\\Downloads\\23zprog-unif-debug\\23e-debug-ext.c",
-              "ToolTip": "C:\\Users\\DKSYSTEMS\\Downloads\\23zprog-unif-debug\\23e-debug-ext.c",
-              "ViewState": "AQIAAGwAAAAAAAAAAAAzwJoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-15T06:58:48.437Z",
+              "Title": "31f-rotate.cpp",
+              "DocumentMoniker": "C:\\Users\\DKSYSTEMS\\Downloads\\31zprog-simple-anim\\31f-rotate.cpp",
+              "ToolTip": "C:\\Users\\DKSYSTEMS\\Downloads\\31zprog-simple-anim\\31f-rotate.cpp",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAzwI4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T06:41:17.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "2_TrianglesGLM.cpp",
+              "DocumentMoniker": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\2_TrianglesGLM.cpp",
+              "RelativeDocumentMoniker": "HellowGLM\\2_TrianglesGLM.cpp",
+              "ToolTip": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\2_TrianglesGLM.cpp",
+              "RelativeToolTip": "HellowGLM\\2_TrianglesGLM.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T06:28:16.613Z",
               "EditorCaption": ""
             }
           ]
