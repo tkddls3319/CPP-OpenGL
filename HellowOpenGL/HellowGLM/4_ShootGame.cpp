@@ -171,7 +171,7 @@ void keyFunc(GLFWwindow* window, int key, int scancode, int action, int mods) {
 			planeCur.x -= planeStep;
 		}
 		break;
-	case GLFW_KEY_D: // right move
+	case GLFW_KEY_D: // right movea
 		if (action == GLFW_PRESS || action == GLFW_REPEAT) {
 			planeCur.x += planeStep;
 		}
