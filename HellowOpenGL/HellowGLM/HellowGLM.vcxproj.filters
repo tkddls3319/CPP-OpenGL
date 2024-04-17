@@ -5,5 +5,15 @@
     <ClCompile Include="2_TrianglesGLM.cpp" />
     <ClCompile Include="3_RotateTriangles.cpp" />
     <ClCompile Include="4_ShootGame.cpp" />
+    <ClCompile Include="5_GlfwTime.cpp" />
+    <ClCompile Include="6_HellowChrono.cpp" />
+    <ClCompile Include="7_ChronoTriangles.cpp" />
+    <ClCompile Include="8_RedThenBlueTriangle.cpp" />
+    <ClCompile Include="9_DepthTriangle.cpp" />
+    <ClCompile Include="10_TangledRectangle.cpp" />
+    <ClCompile Include="11_Primitives.cpp" />
+    <ClCompile Include="12_3DPyramid.cpp" />
+    <ClCompile Include="13_3DPyramid_BackFaceCull.cpp" />
+    <ClCompile Include="14_3DPyramidRotate.cpp" />
   </ItemGroup>
 </Project>

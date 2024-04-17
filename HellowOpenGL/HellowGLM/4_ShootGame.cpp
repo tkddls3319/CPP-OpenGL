@@ -76,17 +76,13 @@ void initFunc(void) {
 	free((void*)vertSource);
 	free((void*)fragSource);
 }
-
-// object definitions
-
-glm::vec4 planePos[] = { // big-size air-plane
-	{ -0.2F, 0.0F, 0.0F, 1.0F, },
+glm::vec4 planePos[] = {
+		{ -0.2F, 0.0F, 0.0F, 1.0F, },
 	{ +0.2F, 0.0F, 0.0F, 1.0F, },
 	{ +0.0F, 0.3F, 0.0F, 1.0F, },
 };
-
-glm::vec4 planeColor[] = { // green colored
-	{ 0.3F, 1.0F, 0.3F, 1.0F, },
+glm::vec4 planeColor[] = {
+		{ 0.3F, 1.0F, 0.3F, 1.0F, },
 	{ 0.3F, 1.0F, 0.3F, 1.0F, },
 	{ 0.3F, 1.0F, 0.3F, 1.0F, },
 };
@@ -95,28 +91,27 @@ const float planeStep = 0.01F;
 glm::vec4 planeOrg = glm::vec4(0.0F, -0.8F, 0.0F, 0.0F);
 glm::vec4 planeCur = planeOrg;
 
-glm::vec4 stonePos[] = { // dropping obstacle
-	{ +0.00F, -0.1F, 0.0F, 1.0F, },
+glm::vec4 stonePos[] = {
+		{ +0.00F, -0.1F, 0.0F, 1.0F, },
 	{ +0.05F, +0.0F, 0.0F, 1.0F, },
 	{ -0.05F, +0.0F, 0.0F, 1.0F, },
 };
-
-glm::vec4 stoneColor[] = { // red colored
-	{ 1.0F, 0.0F, 0.0F, 1.0F, },
+glm::vec4 stoneColor[] = {
+		{ 1.0F, 0.0F, 0.0F, 1.0F, },
 	{ 1.0F, 0.0F, 0.0F, 1.0F, },
 	{ 1.0F, 0.0F, 0.0F, 1.0F, },
 };
-
 const float stoneStep = 0.003F;
 glm::vec4 stoneOrg = glm::vec4(-0.5F, 1.0F, 0.0F, 0.0F);
 glm::vec4 stoneCur = stoneOrg;
 
+
 void updateFunc(void) {
-	// moving stone! : you can add any AI logic here!
+
 	stoneCur.y -= stoneStep;
-	if (stoneCur.y < -1.1F) {
+
+	if (stoneCur.y < -1.1F)
 		stoneCur = stoneOrg;
-	}
 }
 
 void drawFunc(void) {
@@ -144,10 +139,10 @@ void drawFunc(void) {
 	glFinish();
 }
 
-void refreshFunc(GLFWwindow* window) {
-	// refresh
+void refreshFunc(GLFWwindow* window)
+{
 	drawFunc();
-	// GLFW action
+
 	glfwSwapBuffers(window);
 }
 
@@ -171,7 +166,7 @@ void keyFunc(GLFWwindow* window, int key, int scancode, int action, int mods) {
 			planeCur.x -= planeStep;
 		}
 		break;
-	case GLFW_KEY_D: // right movea
+	case GLFW_KEY_D: // right move
 		if (action == GLFW_PRESS || action == GLFW_REPEAT) {
 			planeCur.x += planeStep;
 		}
@@ -181,28 +176,28 @@ void keyFunc(GLFWwindow* window, int key, int scancode, int action, int mods) {
 
 int main(int argc, char* argv[]) {
 	const char* basename = getBaseName(argv[0]);
-	// start GLFW & GLEW
 	glfwInit();
-	glfwWindowHint(GLFW_DOUBLEBUFFER, GLFW_TRUE);
+
 	GLFWwindow* window = glfwCreateWindow(WIN_W, WIN_H, basename, nullptr, nullptr);
 	glfwSetWindowPos(window, WIN_X, WIN_Y);
 	glfwMakeContextCurrent(window);
 	glewInit();
-	// prepare
+
 	glfwSetWindowRefreshCallback(window, refreshFunc);
 	glfwSetKeyCallback(window, keyFunc);
 	glClearColor(0.5F, 0.5F, 0.5F, 1.0F);
 	// main loop
 	initFunc();
-	while (!glfwWindowShouldClose(window)) {
-		// animation loop
+
+	while (!glfwWindowShouldClose(window))
+	{
 		updateFunc();
 		drawFunc();
-		// GLFW actions
+
 		glfwSwapBuffers(window);
 		glfwPollEvents();
 	}
-	// done
+
 	glfwTerminate();
 	return 0;
 }
