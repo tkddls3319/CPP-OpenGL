@@ -15,5 +15,15 @@
     <ClCompile Include="12_3DPyramid.cpp" />
     <ClCompile Include="13_3DPyramid_BackFaceCull.cpp" />
     <ClCompile Include="14_3DPyramidRotate.cpp" />
+    <ClCompile Include="15_glDrawElements.cpp" />
+    <ClCompile Include="16_orbit.cpp" />
+    <ClCompile Include="17_Scale.cpp" />
+    <ClCompile Include="18_RotateEulerAngle.cpp" />
+    <ClCompile Include="19_RotateEulerAngle_GLM.cpp" />
+    <ClCompile Include="20_MouseEvent.cpp" />
+    <ClCompile Include="21_MouseDragging.cpp" />
+    <ClCompile Include="22_QuaternionTrackball.cpp" />
+    <ClCompile Include="23_Slerp.cpp" />
+    <ClCompile Include="24_VBOBuffer.cpp" />
   </ItemGroup>
 </Project>
