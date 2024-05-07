@@ -25,5 +25,8 @@
     <ClCompile Include="22_QuaternionTrackball.cpp" />
     <ClCompile Include="23_Slerp.cpp" />
     <ClCompile Include="24_VBOBuffer.cpp" />
+    <ClCompile Include="25_VBOStride.cpp" />
+    <ClCompile Include="26_VBOAndIBO.cpp" />
+    <ClCompile Include="27_To_Models.cpp" />
   </ItemGroup>
 </Project>
