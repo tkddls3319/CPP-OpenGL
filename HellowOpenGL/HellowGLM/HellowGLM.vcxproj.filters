@@ -28,5 +28,8 @@
     <ClCompile Include="25_VBOStride.cpp" />
     <ClCompile Include="26_VBOAndIBO.cpp" />
     <ClCompile Include="27_To_Models.cpp" />
+    <ClCompile Include="28_RotatingView.cpp" />
+    <ClCompile Include="29_LookAt1.cpp" />
+    <ClCompile Include="30_LookAt2.cpp" />
   </ItemGroup>
 </Project>
