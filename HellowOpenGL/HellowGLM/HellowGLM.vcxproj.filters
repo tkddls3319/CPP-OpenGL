@@ -31,5 +31,13 @@
     <ClCompile Include="28_RotatingView.cpp" />
     <ClCompile Include="29_LookAt1.cpp" />
     <ClCompile Include="30_LookAt2.cpp" />
+    <ClCompile Include="31_LookAtLowSource.cpp" />
+    <ClCompile Include="32_Orthographic1.cpp" />
+    <ClCompile Include="33_Orthographic2.cpp" />
+    <ClCompile Include="34_OrthographicLowSource.cpp" />
+    <ClCompile Include="35_Frustum1.cpp" />
+    <ClCompile Include="35_Perspective.cpp" />
+    <ClCompile Include="36_MVP.cpp" />
+    <ClCompile Include="37_Viewport.cpp" />
   </ItemGroup>
 </Project>
