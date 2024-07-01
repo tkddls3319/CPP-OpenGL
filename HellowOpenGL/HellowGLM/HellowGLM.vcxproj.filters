@@ -40,5 +40,7 @@
     <ClCompile Include="37_Viewport.cpp" />
     <ClCompile Include="38_ScissorBox.cpp" />
     <ClCompile Include="39_WindowResize.cpp" />
+    <ClCompile Include="61-tetrahedron.cpp" />
+    <ClCompile Include="61-octahedron.cpp" />
   </ItemGroup>
 </Project>

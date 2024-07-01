@@ -1,39 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\",
+  "WorkspaceRootPath": "C:\\Users\\tkddl\\PsiDdrive\\1.Project\\OpenGL\\HellowOpenGL\\HellowOpenGL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1061E2AC-9A90-4EA6-AD98-5A68F88E3B1D}|HellowGLM\\HellowGLM.vcxproj|D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\37_Viewport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1061E2AC-9A90-4EA6-AD98-5A68F88E3B1D}|HellowGLM\\HellowGLM.vcxproj|solutionrelative:HellowGLM\\37_Viewport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1061E2AC-9A90-4EA6-AD98-5A68F88E3B1D}|HellowGLM\\HellowGLM.vcxproj|C:\\Users\\tkddl\\PsiDdrive\\1.Project\\OpenGL\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\61-octahedron.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1061E2AC-9A90-4EA6-AD98-5A68F88E3B1D}|HellowGLM\\HellowGLM.vcxproj|solutionrelative:HellowGLM\\61-octahedron.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1061E2AC-9A90-4EA6-AD98-5A68F88E3B1D}|HellowGLM\\HellowGLM.vcxproj|D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\39_WindowResize.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1061E2AC-9A90-4EA6-AD98-5A68F88E3B1D}|HellowGLM\\HellowGLM.vcxproj|solutionrelative:HellowGLM\\39_WindowResize.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DKSYSTEMS\\Downloads\\53zprog-fov\\53d-resize.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DKSYSTEMS\\Downloads\\53zprog-fov\\53a-fov.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1061E2AC-9A90-4EA6-AD98-5A68F88E3B1D}|HellowGLM\\HellowGLM.vcxproj|D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\38_ScissorBox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1061E2AC-9A90-4EA6-AD98-5A68F88E3B1D}|HellowGLM\\HellowGLM.vcxproj|solutionrelative:HellowGLM\\38_ScissorBox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DKSYSTEMS\\Downloads\\53zprog-fov\\53c-scissor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DKSYSTEMS\\Downloads\\53zprog-fov\\53b-viewport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DKSYSTEMS\\Downloads\\52zprog-ortho\\52e-frustum2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DKSYSTEMS\\Downloads\\52zprog-ortho\\52a-ortho.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DKSYSTEMS\\Downloads\\51zprog-two-models (2)\\51c-look-at.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1061E2AC-9A90-4EA6-AD98-5A68F88E3B1D}|HellowGLM\\HellowGLM.vcxproj|C:\\Users\\tkddl\\PsiDdrive\\1.Project\\OpenGL\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\61-tetrahedron.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1061E2AC-9A90-4EA6-AD98-5A68F88E3B1D}|HellowGLM\\HellowGLM.vcxproj|solutionrelative:HellowGLM\\61-tetrahedron.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,16 +17,16 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 260,
-          "SelectedChildIndex": 6,
+          "DockedWidth": 248,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -63,124 +38,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "53c-scissor.cpp",
-              "DocumentMoniker": "C:\\Users\\DKSYSTEMS\\Downloads\\53zprog-fov\\53c-scissor.cpp",
-              "ToolTip": "C:\\Users\\DKSYSTEMS\\Downloads\\53zprog-fov\\53c-scissor.cpp",
-              "ViewState": "AQIAABIBAAAAAAAAAAAiwD8BAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-10T06:54:09.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "38_ScissorBox.cpp",
-              "DocumentMoniker": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\38_ScissorBox.cpp",
-              "RelativeDocumentMoniker": "HellowGLM\\38_ScissorBox.cpp",
-              "ToolTip": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\38_ScissorBox.cpp",
-              "RelativeToolTip": "HellowGLM\\38_ScissorBox.cpp",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAAAIkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-10T06:54:04.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "37_Viewport.cpp",
-              "DocumentMoniker": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\37_Viewport.cpp",
-              "RelativeDocumentMoniker": "HellowGLM\\37_Viewport.cpp",
-              "ToolTip": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\37_Viewport.cpp",
-              "RelativeToolTip": "HellowGLM\\37_Viewport.cpp",
-              "ViewState": "AQIAAOAAAAAAAAAAAAApwPwAAAAmAAAA",
+              "Title": "61-octahedron.cpp",
+              "DocumentMoniker": "C:\\Users\\tkddl\\PsiDdrive\\1.Project\\OpenGL\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\61-octahedron.cpp",
+              "RelativeDocumentMoniker": "HellowGLM\\61-octahedron.cpp",
+              "ToolTip": "C:\\Users\\tkddl\\PsiDdrive\\1.Project\\OpenGL\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\61-octahedron.cpp",
+              "RelativeToolTip": "HellowGLM\\61-octahedron.cpp",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAkwFgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-10T06:02:31.929Z",
+              "WhenOpened": "2024-07-01T13:09:37.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "39_WindowResize.cpp",
-              "DocumentMoniker": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\39_WindowResize.cpp",
-              "RelativeDocumentMoniker": "HellowGLM\\39_WindowResize.cpp",
-              "ToolTip": "D:\\2.Project\\9999.My\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\39_WindowResize.cpp",
-              "RelativeToolTip": "HellowGLM\\39_WindowResize.cpp",
-              "ViewState": "AQIAAPkAAAAAAAAAAAAAABEBAAAyAAAA",
+              "Title": "61-tetrahedron.cpp",
+              "DocumentMoniker": "C:\\Users\\tkddl\\PsiDdrive\\1.Project\\OpenGL\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\61-tetrahedron.cpp",
+              "RelativeDocumentMoniker": "HellowGLM\\61-tetrahedron.cpp",
+              "ToolTip": "C:\\Users\\tkddl\\PsiDdrive\\1.Project\\OpenGL\\HellowOpenGL\\HellowOpenGL\\HellowGLM\\61-tetrahedron.cpp",
+              "RelativeToolTip": "HellowGLM\\61-tetrahedron.cpp",
+              "ViewState": "AQIAAJUAAAAAAAAAAAArwKsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-14T01:55:34.75Z",
+              "WhenOpened": "2024-07-01T12:58:06.327Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 186,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 196,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "53b-viewport.cpp",
-              "DocumentMoniker": "C:\\Users\\DKSYSTEMS\\Downloads\\53zprog-fov\\53b-viewport.cpp",
-              "ToolTip": "C:\\Users\\DKSYSTEMS\\Downloads\\53zprog-fov\\53b-viewport.cpp",
-              "ViewState": "AQIAAAkBAAAAAAAAAAAkwDYBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-10T06:02:06.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "53a-fov.cpp",
-              "DocumentMoniker": "C:\\Users\\DKSYSTEMS\\Downloads\\53zprog-fov\\53a-fov.cpp",
-              "ToolTip": "C:\\Users\\DKSYSTEMS\\Downloads\\53zprog-fov\\53a-fov.cpp",
-              "ViewState": "AQIAAAEBAAAAAAAAAAAiwBIBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-10T05:41:46.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "53d-resize.cpp",
-              "DocumentMoniker": "C:\\Users\\DKSYSTEMS\\Downloads\\53zprog-fov\\53d-resize.cpp",
-              "ToolTip": "C:\\Users\\DKSYSTEMS\\Downloads\\53zprog-fov\\53d-resize.cpp",
-              "ViewState": "AQIAACsBAAAAAAAAAAAYwFMBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-14T01:55:13.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "52e-frustum2.cpp",
-              "DocumentMoniker": "C:\\Users\\DKSYSTEMS\\Downloads\\52zprog-ortho\\52e-frustum2.cpp",
-              "ToolTip": "C:\\Users\\DKSYSTEMS\\Downloads\\52zprog-ortho\\52e-frustum2.cpp",
-              "ViewState": "AQIAAAABAAAAAAAAAAAkwA0BAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-10T03:41:45.115Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "52a-ortho.cpp",
-              "DocumentMoniker": "C:\\Users\\DKSYSTEMS\\Downloads\\52zprog-ortho\\52a-ortho.cpp",
-              "ToolTip": "C:\\Users\\DKSYSTEMS\\Downloads\\52zprog-ortho\\52a-ortho.cpp",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-08T07:14:13.407Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "51c-look-at.cpp",
-              "DocumentMoniker": "C:\\Users\\DKSYSTEMS\\Downloads\\51zprog-two-models (2)\\51c-look-at.cpp",
-              "ToolTip": "C:\\Users\\DKSYSTEMS\\Downloads\\51zprog-two-models (2)\\51c-look-at.cpp",
-              "ViewState": "AQIAAPYAAAAAAAAAAAAiwAIBAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-08T05:39:46.685Z"
             }
           ]
         }
